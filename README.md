@@ -6,4 +6,6 @@ This is a simple readme file
 
 Modified file
 
-I hope this will not cause issues :)
+I hope this will not cause issues.
+
+Try out stashing
